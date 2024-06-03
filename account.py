@@ -7,7 +7,7 @@ import requests
 SERVICE_ACCOUNT_KEY_FILE = 'socialgram-21bd0-baa62400f5b2.json'
 
 # Replace with your Firebase project's API key
-FIREBASE_API_KEY = 'AIzaSyB2J5DBhKudMOZdPhykSEnmPVVZB03MJ_s'
+FIREBASE_API_KEY = 'YOUR FIREBASE API KEY'
 
 # Initialize Firebase with the credentials
 cred = credentials.Certificate(SERVICE_ACCOUNT_KEY_FILE)
